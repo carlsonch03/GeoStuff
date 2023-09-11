@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "64fe5748f35be195aba3ddcb"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2,
+      57
+    ]
+  },
+  "name": "Aberdeen"
+},
+{
+  "_id": {
+    "$oid": "64fe5748f35be195aba3ddcc"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      13,
+      52
+    ]
+  },
+  "name": "Berlin"
+},
+{
+  "_id": {
+    "$oid": "64fe5748f35be195aba3ddcd"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      26,
+      44
+    ]
+  },
+  "name": "Bucharest"
+},
+{
+  "_id": {
+    "$oid": "64fe5748f35be195aba3ddce"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      14,
+      40
+    ]
+  },
+  "name": "Napoli"
+},
+{
+  "_id": {
+    "$oid": "64fe5748f35be195aba3ddcf"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2,
+      48
+    ]
+  },
+  "name": "Paris"
+},
+{
+  "_id": {
+    "$oid": "64fe5748f35be195aba3ddd0"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      -70,
+      35
+    ]
+  },
+  "name": "Tokyo"
+},
+{
+  "_id": {
+    "$oid": "64fe5748f35be195aba3ddd1"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      8,
+      47
+    ]
+  },
+  "name": "Zurich"
+}]
